@@ -1,2 +1,3 @@
 # Koruma-Sistem-JS
 YAKINDA........
+[!Greedy](https://kardespro.cf/greedy/ekle)
